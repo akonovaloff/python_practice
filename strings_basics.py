@@ -24,4 +24,4 @@ if __name__ == '__main__':
     separator_symbol = args.separator
 
     # Call function "string_splitter" with parameters to print result
-    print()
+    print("hallo")
